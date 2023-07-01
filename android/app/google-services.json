@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "618947093316",
+    "project_id": "chatwithus-2abb6",
+    "storage_bucket": "chatwithus-2abb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618947093316:android:4b64d23f4e3860fa5d6d11",
+        "android_client_info": {
+          "package_name": "com.devapp.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618947093316-a2u8l12lbsudq1gpiiba88jghienebou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi1Klcta0ZT1JPQVY1LmKX5W02XXoN5Hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618947093316-a2u8l12lbsudq1gpiiba88jghienebou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
